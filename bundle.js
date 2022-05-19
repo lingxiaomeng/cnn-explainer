@@ -2408,7 +2408,7 @@ var app = (function () {
     			add_location(div5, file$3, 130, 6, 2795);
     			attr_dev(div6, "class", "container is-centered svelte-1j8mhv0");
     			add_location(div6, file$3, 153, 6, 3556);
-    			if (!src_url_equal(img.src, img_src_value = "/cnn-explainer/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "pointer icon");
     			attr_dev(img, "class", "svelte-1j8mhv0");
     			add_location(img, file$3, 162, 8, 3950);
@@ -3355,7 +3355,7 @@ var app = (function () {
     			add_location(div5, file$5, 98, 6, 1772);
     			attr_dev(div6, "class", "container is-centered is-vcentered svelte-1lq7956");
     			add_location(div6, file$5, 123, 6, 2541);
-    			if (!src_url_equal(img.src, img_src_value = "/cnn-explainer/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "pointer icon");
     			attr_dev(img, "class", "svelte-1lq7956");
     			add_location(img, file$5, 130, 8, 2806);
@@ -4308,7 +4308,7 @@ var app = (function () {
     			add_location(div5, file$7, 158, 6, 3553);
     			attr_dev(div6, "class", "container is-centered is-vcentered svelte-kahisg");
     			add_location(div6, file$7, 183, 6, 4322);
-    			if (!src_url_equal(img.src, img_src_value = "/cnn-explainer/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "pointer icon");
     			attr_dev(img, "class", "svelte-kahisg");
     			add_location(img, file$7, 191, 8, 4662);
@@ -4730,7 +4730,7 @@ var app = (function () {
     			attr_dev(svg_1, "height", "105");
     			attr_dev(svg_1, "class", "svelte-1uac4ng");
     			add_location(svg_1, file$8, 273, 4, 7172);
-    			if (!src_url_equal(img.src, img_src_value = "/cnn-explainer/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "pointer icon");
     			attr_dev(img, "class", "svelte-1uac4ng");
     			add_location(img, file$8, 276, 6, 7257);
@@ -6633,7 +6633,7 @@ var app = (function () {
     			add_location(div12, file$c, 199, 8, 4747);
     			attr_dev(div13, "class", "left-part svelte-159efdy");
     			add_location(div13, file$c, 158, 6, 3329);
-    			if (!src_url_equal(img.src, img_src_value = "/cnn-explainer/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "/assets/img/pointer.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "pointer icon");
     			attr_dev(img, "width", "25px");
     			attr_dev(img, "class", "svelte-159efdy");
@@ -7986,7 +7986,7 @@ var app = (function () {
     			attr_dev(img0, "class", "is-rounded svelte-ixpg0w");
     			attr_dev(img0, "width", "12%");
     			attr_dev(img0, "height", "12%");
-    			if (!src_url_equal(img0.src, img0_src_value = "/cnn-explainer/assets/figures/network_details.png")) attr_dev(img0, "src", img0_src_value);
+    			if (!src_url_equal(img0.src, img0_src_value = "/assets/figures/network_details.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "network details icon");
     			add_location(img0, file$e, 131, 293, 5500);
     			attr_dev(p5, "class", "svelte-ixpg0w");
@@ -8000,7 +8000,7 @@ var app = (function () {
     			add_location(p7, file$e, 137, 3, 6303);
     			attr_dev(p8, "class", "svelte-ixpg0w");
     			add_location(p8, file$e, 140, 3, 6654);
-    			if (!src_url_equal(img1.src, img1_src_value = "/cnn-explainer/assets/figures/convlayer_overview_demo.gif")) attr_dev(img1, "src", img1_src_value);
+    			if (!src_url_equal(img1.src, img1_src_value = "/assets/figures/convlayer_overview_demo.gif")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "clicking on topmost first conv. layer activation map");
     			attr_dev(img1, "width", "60%");
     			attr_dev(img1, "height", "60%");
@@ -8013,7 +8013,7 @@ var app = (function () {
     			add_location(div1, file$e, 143, 4, 7185);
     			attr_dev(p9, "class", "svelte-ixpg0w");
     			add_location(p9, file$e, 150, 3, 7725);
-    			if (!src_url_equal(img2.src, img2_src_value = "/cnn-explainer/assets/figures/convlayer_detailedview_demo.gif")) attr_dev(img2, "src", img2_src_value);
+    			if (!src_url_equal(img2.src, img2_src_value = "/assets/figures/convlayer_detailedview_demo.gif")) attr_dev(img2, "src", img2_src_value);
     			attr_dev(img2, "alt", "clicking on topmost first conv. layer activation map");
     			attr_dev(img2, "class", "svelte-ixpg0w");
     			add_location(img2, file$e, 154, 6, 8395);
@@ -8074,7 +8074,7 @@ var app = (function () {
     			add_location(p13, file$e, 176, 4, 12878);
     			attr_dev(p14, "class", "svelte-ixpg0w");
     			add_location(p14, file$e, 179, 4, 14026);
-    			if (!src_url_equal(img3.src, img3_src_value = "/cnn-explainer/assets/figures/relu_graph.png")) attr_dev(img3, "src", img3_src_value);
+    			if (!src_url_equal(img3.src, img3_src_value = "/assets/figures/relu_graph.png")) attr_dev(img3, "src", img3_src_value);
     			attr_dev(img3, "alt", "relu graph");
     			attr_dev(img3, "width", "30%");
     			attr_dev(img3, "height", "30%");
@@ -8097,7 +8097,7 @@ var app = (function () {
     			add_location(p16, file$e, 192, 4, 15000);
     			attr_dev(p17, "class", "svelte-ixpg0w");
     			add_location(p17, file$e, 196, 4, 15685);
-    			if (!src_url_equal(img4.src, img4_src_value = "/cnn-explainer/assets/figures/softmax_animation.gif")) attr_dev(img4, "src", img4_src_value);
+    			if (!src_url_equal(img4.src, img4_src_value = "/assets/figures/softmax_animation.gif")) attr_dev(img4, "src", img4_src_value);
     			attr_dev(img4, "alt", "softmax interactive formula view");
     			attr_dev(img4, "class", "svelte-ixpg0w");
     			add_location(img4, file$e, 200, 4, 16275);
@@ -8124,7 +8124,7 @@ var app = (function () {
     			add_location(h22, file$e, 220, 4, 18416);
     			add_location(strong10, file$e, 222, 9, 18464);
     			attr_dev(img5, "class", "icon is-rounded svelte-ixpg0w");
-    			if (!src_url_equal(img5.src, img5_src_value = "/cnn-explainer/assets/figures/upload_image_icon.png")) attr_dev(img5, "src", img5_src_value);
+    			if (!src_url_equal(img5.src, img5_src_value = "/assets/figures/upload_image_icon.png")) attr_dev(img5, "src", img5_src_value);
     			attr_dev(img5, "alt", "upload image icon");
     			add_location(img5, file$e, 222, 61, 18516);
     			attr_dev(li8, "class", "svelte-ixpg0w");
@@ -8133,7 +8133,7 @@ var app = (function () {
     			attr_dev(img6, "class", "is-rounded svelte-ixpg0w");
     			attr_dev(img6, "width", "12%");
     			attr_dev(img6, "height", "12%");
-    			if (!src_url_equal(img6.src, img6_src_value = "/cnn-explainer/assets/figures/heatmap_scale.png")) attr_dev(img6, "src", img6_src_value);
+    			if (!src_url_equal(img6.src, img6_src_value = "/assets/figures/heatmap_scale.png")) attr_dev(img6, "src", img6_src_value);
     			attr_dev(img6, "alt", "heatmap");
     			add_location(img6, file$e, 223, 158, 18966);
     			attr_dev(li9, "class", "svelte-ixpg0w");
@@ -8142,14 +8142,14 @@ var app = (function () {
     			attr_dev(img7, "class", "is-rounded svelte-ixpg0w");
     			attr_dev(img7, "width", "12%");
     			attr_dev(img7, "height", "12%");
-    			if (!src_url_equal(img7.src, img7_src_value = "/cnn-explainer/assets/figures/network_details.png")) attr_dev(img7, "src", img7_src_value);
+    			if (!src_url_equal(img7.src, img7_src_value = "/assets/figures/network_details.png")) attr_dev(img7, "src", img7_src_value);
     			attr_dev(img7, "alt", "network details icon");
     			add_location(img7, file$e, 224, 110, 19197);
     			attr_dev(li10, "class", "svelte-ixpg0w");
     			add_location(li10, file$e, 224, 5, 19092);
     			add_location(strong13, file$e, 225, 9, 19347);
     			attr_dev(img8, "class", "icon is-rounded svelte-ixpg0w");
-    			if (!src_url_equal(img8.src, img8_src_value = "/cnn-explainer/assets/figures/play_button.png")) attr_dev(img8, "src", img8_src_value);
+    			if (!src_url_equal(img8.src, img8_src_value = "/assets/figures/play_button.png")) attr_dev(img8, "src", img8_src_value);
     			attr_dev(img8, "alt", "play icon");
     			add_location(img8, file$e, 225, 70, 19408);
     			add_location(em6, file$e, 225, 212, 19550);
@@ -8157,7 +8157,7 @@ var app = (function () {
     			add_location(li11, file$e, 225, 5, 19343);
     			add_location(strong14, file$e, 226, 10, 19702);
     			attr_dev(img9, "class", "icon is-rounded svelte-ixpg0w");
-    			if (!src_url_equal(img9.src, img9_src_value = "/cnn-explainer/assets/figures/info_button.png")) attr_dev(img9, "src", img9_src_value);
+    			if (!src_url_equal(img9.src, img9_src_value = "/assets/figures/info_button.png")) attr_dev(img9, "src", img9_src_value);
     			attr_dev(img9, "alt", "info icon");
     			add_location(img9, file$e, 226, 61, 19753);
     			add_location(em7, file$e, 226, 165, 19857);
@@ -10813,7 +10813,7 @@ var app = (function () {
 
         // Change button icon
         svg$3.select('.animation-control-button')
-          .attr('xlink:href', '/cnn-explainer/assets/img/fast_forward.svg');
+          .attr('xlink:href', '/assets/img/fast_forward.svg');
         
         isEndOfAnimation = false;
 
@@ -10847,7 +10847,7 @@ var app = (function () {
         
         // Change button icon
         svg$3.select('.animation-control-button')
-          .attr('xlink:href', '/cnn-explainer/assets/img/redo.svg');
+          .attr('xlink:href', '/assets/img/redo.svg');
         
         isEndOfAnimation = true;
       }
@@ -11234,7 +11234,7 @@ var app = (function () {
         .on('click', () => animationButtonClicked(curLayerIndex))
         .append('image')
         .attr('class', 'animation-control-button')
-        .attr('xlink:href', '/cnn-explainer/assets/img/fast_forward.svg')
+        .attr('xlink:href', '/assets/img/fast_forward.svg')
         .attr('x', 50)
         .attr('y', 0)
         .attr('height', 13)
@@ -14053,7 +14053,7 @@ var app = (function () {
     			div = element("div");
     			img = element("img");
     			t = space();
-    			if (!src_url_equal(img.src, img_src_value = "/cnn-explainer/assets/img/" + /*image*/ ctx[83].file)) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "/assets/img/" + /*image*/ ctx[83].file)) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "image option");
     			attr_dev(img, "title", img_title_value = /*image*/ ctx[83].class);
     			attr_dev(img, "data-imagename", img_data_imagename_value = /*image*/ ctx[83].file);
@@ -14505,7 +14505,7 @@ var app = (function () {
     			t17 = space();
     			create_component(modal.$$.fragment);
     			attr_dev(img, "class", "custom-image svelte-1xz6y1p");
-    			if (!src_url_equal(img.src, img_src_value = "/cnn-explainer/assets/img/plus.svg")) attr_dev(img, "src", img_src_value);
+    			if (!src_url_equal(img.src, img_src_value = "/assets/img/plus.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "plus button");
     			attr_dev(img, "title", "Add new input image");
     			attr_dev(img, "data-imagename", "custom");
@@ -15825,8 +15825,8 @@ var app = (function () {
     		svg.append("defs").append("marker").attr("id", 'marker-alt').attr("viewBox", "0 -5 10 10").attr("refX", 6).attr("refY", 0).attr("markerWidth", 6).attr("markerHeight", 6).attr("orient", "auto").append("path").style('fill', 'none').style('stroke', 'gray').style('stroke-width', 2).attr("d", "M-5,-10L10,0L-5,10");
 
     		console.time('Construct cnn');
-    		model = await loadTrainedModel('/cnn-explainer/assets/data/model.json');
-    		cnn = await constructCNN(`/cnn-explainer/assets/img/${selectedImage}`, model);
+    		model = await loadTrainedModel('/assets/data/model.json');
+    		cnn = await constructCNN(`/assets/img/${selectedImage}`, model);
     		console.timeEnd('Construct cnn');
     		cnnStore.set(cnn);
 
@@ -15867,7 +15867,7 @@ var app = (function () {
     			$$invalidate(7, selectedImage = newImageName);
 
     			// Re-compute the CNN using the new input image
-    			cnn = await constructCNN(`/cnn-explainer/assets/img/${selectedImage}`, model);
+    			cnn = await constructCNN(`/assets/img/${selectedImage}`, model);
 
     			// Ignore the flatten layer for now
     			let flatten = cnn[cnn.length - 2];
@@ -16403,7 +16403,7 @@ var app = (function () {
     			attr_dev(div1, "id", "logo");
     			attr_dev(div1, "class", "svelte-qob9ex");
     			add_location(div1, file$h, 58, 2, 791);
-    			if (!src_url_equal(img0.src, img0_src_value = "/cnn-explainer/assets/img/pdf.png")) attr_dev(img0, "src", img0_src_value);
+    			if (!src_url_equal(img0.src, img0_src_value = "/assets/img/pdf.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "pdf icon");
     			attr_dev(img0, "class", "svelte-qob9ex");
     			add_location(img0, file$h, 87, 4, 1722);
@@ -16414,7 +16414,7 @@ var app = (function () {
     			attr_dev(div2, "class", "icon svelte-qob9ex");
     			attr_dev(div2, "title", "Research paper");
     			add_location(div2, file$h, 85, 2, 1613);
-    			if (!src_url_equal(img1.src, img1_src_value = "/cnn-explainer/assets/img/youtube.png")) attr_dev(img1, "src", img1_src_value);
+    			if (!src_url_equal(img1.src, img1_src_value = "/assets/img/youtube.png")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "youtube icon");
     			attr_dev(img1, "class", "svelte-qob9ex");
     			add_location(img1, file$h, 93, 4, 1901);
@@ -16425,7 +16425,7 @@ var app = (function () {
     			attr_dev(div3, "class", "icon svelte-qob9ex");
     			attr_dev(div3, "title", "Demo video");
     			add_location(div3, file$h, 91, 2, 1800);
-    			if (!src_url_equal(img2.src, img2_src_value = "/cnn-explainer/assets/img/github.png")) attr_dev(img2, "src", img2_src_value);
+    			if (!src_url_equal(img2.src, img2_src_value = "/assets/img/github.png")) attr_dev(img2, "src", img2_src_value);
     			attr_dev(img2, "alt", "github icon");
     			attr_dev(img2, "class", "svelte-qob9ex");
     			add_location(img2, file$h, 99, 4, 2107);
