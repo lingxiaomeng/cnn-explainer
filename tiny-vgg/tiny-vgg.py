@@ -328,6 +328,7 @@ tiny_vgg = Sequential([
     Flatten(name='flatten'),
     Dense(NUM_CLASS, activation='softmax', name='output')
 ])
+tiny_vgg.summary()
 
 # "Compile" the model with loss function and optimizer
 loss_object = tf.keras.losses.CategoricalCrossentropy()

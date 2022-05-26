@@ -75,7 +75,7 @@
 
 			<g filter="url(#chalk-texture)" transform="translate(0, 35)">
 				<text id="svg-logo-tagline">
-					Learn Convolutional Neural Network (CNN) in your browser! 
+					信息技术基础作业：CNN流程演示
 				</text>
 			</g>
 		</svg>
