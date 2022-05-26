@@ -169,18 +169,10 @@
   }
 
   let imageOptions = [
-    {file: 'boat_1.jpeg', class: 'lifeboat'},
-    {file: 'bug_1.jpeg', class: 'ladybug'},
-    {file: 'pizza_1.jpeg', class: 'pizza'},
-    {file: 'pepper_1.jpeg', class: 'bell pepper'},
-    {file: 'bus_1.jpeg', class: 'bus'},
-    {file: 'koala_1.jpeg', class: 'koala'},
-    {file: 'espresso_1.jpeg', class: 'espresso'},
-    {file: 'panda_1.jpeg', class: 'red panda'},
-    {file: 'orange_1.jpeg', class: 'orange'},
-    {file: 'car_1.jpeg', class: 'sport car'}
+    {file: '0.jpg', class: '0'},
+    {file: '1.jpg', class: '1'}
   ];
-  let selectedImage = imageOptions[6].file;
+  let selectedImage = imageOptions[0].file;
 
   let nodeData;
   let selectedNodeIndex = -1;

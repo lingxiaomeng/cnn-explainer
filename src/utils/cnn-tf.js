@@ -62,7 +62,7 @@ class Link {
  */
 const constructCNNFromOutputs = (allOutputs, model, inputImageTensor) => {
   let cnn = [];
-
+  console.log(model);
   // Add the first layer (input layer)
   let inputLayer = [];
   let inputShape = model.layers[0].batchInputShape.slice(1);
@@ -82,7 +82,7 @@ const constructCNNFromOutputs = (allOutputs, model, inputImageTensor) => {
     // Get the current output
     let outputs = allOutputs[l].squeeze();
     outputs = outputs.arraySync();
-
+    console.log(outputs)
     let curLayerNodes = [];
     let curLayerType;
 
@@ -107,6 +107,7 @@ const constructCNNFromOutputs = (allOutputs, model, inputImageTensor) => {
         let biases = layer.bias.val.arraySync();
         // The new order is [output_depth, input_depth, height, width]
         let weights = layer.kernel.val.transpose([3, 2, 0, 1]).arraySync();
+        console.log(layer);
 
         // Add nodes into this layer
         for (let i = 0; i < outputs.length; i++) {
@@ -256,6 +257,7 @@ export const constructCNN = async (inputImageFile, model) => {
     // Because there is only one element in the batch, we use squeeze()
     // We also want to use CHW order here
     let output = curTensor.squeeze();
+    console.log(output)
     if (output.shape.length === 3) {
       output = output.transpose([2, 0, 1]);
     }

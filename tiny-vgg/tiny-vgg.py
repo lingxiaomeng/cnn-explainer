@@ -12,7 +12,7 @@ from os.path import basename
 from time import time
 
 print(tf.__version__)
-
+tf.enable_eager_execution()
 
 def create_class_dict():
     # Create a new version only including tiny 200 classes
@@ -56,7 +56,7 @@ def create_val_class_dict():
 
 def split_val_data():
     # Split validation images to 50% early stopping and 50% hold-out testing
-    val_images = glob('./tiny-imagenet-200/val/images/*.JPEG')
+    val_images = glob('./tiny-imagenet-200/val/images/*.jpg')
     np.random.shuffle(val_images)
 
     for i in range(len(val_images)):
@@ -85,7 +85,9 @@ def process_path_train(path):
     # Get the class
     path = path.numpy()
     image_name = basename(path.decode('ascii'))
-    label_name = re.sub(r'(.+)_\d+\.JPEG', r'\1', image_name)
+    
+    label_name = re.sub(r'(.+)_\d+\.jpg', r'\1', image_name)
+    print(tiny_class_dict)
     label_index = tiny_class_dict[label_name]['index']
 
     # Convert label to one-hot encoding
@@ -252,18 +254,18 @@ def test_step(image_batch, label_batch):
 WIDTH = 64
 HEIGHT = 64
 EPOCHS = 1000
-PATIENCE = 50
-LR = 0.001
-NUM_CLASS = 10
+PATIENCE = 1000
+LR = 0.01
+NUM_CLASS = 2
 BATCH_SIZE = 32
 
 # Create training and validation dataset
 tiny_class_dict = load(open('./data/class_dict_10.json', 'r'))
 tiny_val_class_dict = load(open('./data/val_class_dict_10.json', 'r'))
 
-training_images = './data/class_10_train/*/images/*.JPEG'
-vali_images = './data/class_10_val/val_images/*.JPEG'
-test_images = './data/class_10_val/test_images/*.JPEG'
+training_images = './data/class_10_train/*/images/*.jpg'
+vali_images = './data/class_10_val/val_images/*.jpg'
+test_images = './data/class_10_val/test_images/*.jpg'
 
 # Create training dataset
 train_path_dataset = tf.data.Dataset.list_files(training_images)
@@ -309,7 +311,7 @@ test_dataset = prepare_for_training(test_labeld_dataset,
 # tiny_vgg = TinyVGG()
 
 # Use Keras Sequential API instead, since it is easy to save the model
-filters = 10
+filters = 2
 tiny_vgg = Sequential([
     Conv2D(filters, (3, 3), input_shape=(64, 64, 3), name='conv_1_1'),
     Activation('relu', name='relu_1_1'),

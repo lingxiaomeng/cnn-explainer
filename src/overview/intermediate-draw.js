@@ -883,11 +883,11 @@ const drawIntermediateLayerAnnotation = (arg) => {
     dr = 50;
 
     sliderX2 = leftX - 3 * kernelRectLength * 3;
-    sliderY2 = nodeCoordinate[curLayerIndex - 1][2].y - 3;
+    sliderY2 = nodeCoordinate[curLayerIndex - 1][1].y - 3;
     arrowTX2 = leftX - kernelRectLength * 3 - 4;
-    arrowTY2 = nodeCoordinate[curLayerIndex - 1][2].y + kernelRectLength * 3 + 6;
+    arrowTY2 = nodeCoordinate[curLayerIndex - 1][1].y + kernelRectLength * 3 + 6;
     arrowSX2 = leftX - kernelRectLength * 3 - 13;
-    arrowSY2 = nodeCoordinate[curLayerIndex - 1][2].y + 26;
+    arrowSY2 = nodeCoordinate[curLayerIndex - 1][1].y + 26;
     dr2 = 20;
   }
 

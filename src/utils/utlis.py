@@ -63,3 +63,6 @@ def convert_h5_to_json(model_h5_file, model_json_file):
             json_dict[l.name]['weights'] = neuron_weights
 
     dump(json_dict, open(model_json_file, 'w'), indent=2)
+
+if __name__ == "__main__":
+    convert_h5_to_json('/home/mlx/tf_test/my_model.h5', '/home/mlx/cnn-explainer/public/assets/data/nn_10.json')

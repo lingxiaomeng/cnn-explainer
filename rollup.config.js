@@ -27,7 +27,7 @@ export default {
 			}
 		}),
 
-        replace({PUBLIC_URL: production ? '/cnn-explainer' : '/cnn-explainer'}),
+        replace({PUBLIC_URL: production ? '/cnn-explainer' : ''}),
 
 		// If you have external dependencies installed from
 		// npm, you'll most likely need these plugins. In

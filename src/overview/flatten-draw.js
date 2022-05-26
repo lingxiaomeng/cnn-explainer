@@ -342,7 +342,7 @@ const drawLogitLayer = (arg) => {
 
       // Hack: now show all edges, only draw 1/3 of the actual edges
       for (let f = 0; f < flattenLength; f += 3) {
-        let loopFactors = [0, 9];
+        let loopFactors = [0, 1];
         loopFactors.forEach(l => {
           let factoredF = f + l * flattenLength;
     
@@ -856,7 +856,7 @@ const softmaxClicked = (arg) => {
         });
 
         // Add annotation for the logit circle
-        for (let i = 0; i < 10; i++) {
+        for (let i = 0; i < 2; i++) {
           softmaxDetailAnnotation.append('text')
             .attr('x', centerX)
             .attr('y', nodeCoordinate[curLayerIndex - 1][i].y + nodeLength / 2 + 8)
@@ -876,7 +876,7 @@ const softmaxClicked = (arg) => {
         textY = nodeCoordinate[curLayerIndex - 1][0].y + nodeLength / 2;
 
         if (selectedI < 3) {
-          textY = nodeCoordinate[curLayerIndex - 1][9].y + nodeLength / 2;
+          textY = nodeCoordinate[curLayerIndex - 1][1].y + nodeLength / 2;
         }
 
         // Add annotation to prompt user to check the logit value
@@ -1093,7 +1093,7 @@ export const drawFlatten = (curLayerIndex, d, i, width, height) => {
     .attr('class', 'flatten-layer-left');
   
   let topY = nodeCoordinate[curLayerIndex - 1][0].y;
-  let bottomY = nodeCoordinate[curLayerIndex - 1][9].y + nodeLength -
+  let bottomY = nodeCoordinate[curLayerIndex - 1][1].y + nodeLength -
         flattenLength * pixelHeight;
   
   // Compute the pre-layer gap
@@ -1183,7 +1183,7 @@ export const drawFlatten = (curLayerIndex, d, i, width, height) => {
 
   flattenFactoredFDict = {};
   for (let f = 0; f < flattenLength; f++) {
-    let loopFactors = [0, 9];
+    let loopFactors = [0, 1];
     loopFactors.forEach(l => {
       let factoredF = f + l * flattenLength;
       flattenFactoredFDict[factoredF] = cnn.flatten[factoredF].output;

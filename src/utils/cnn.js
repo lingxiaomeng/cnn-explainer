@@ -466,7 +466,7 @@ const fullyConnect = (curLayer) => {
 }
 
 export const tempMain = async () => {
-  let nn = await constructNN('PUBLIC_URL/assets/img/koala.jpeg');
+  let nn = await constructNN('PUBLIC_URL/assets/img/1.jpeg');
   convolute(nn[1]);
   relu(nn[2])
   convolute(nn[3]);
