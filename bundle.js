@@ -7540,7 +7540,7 @@ var app = (function () {
     			body = element("body");
     			div9 = element("div");
     			h20 = element("h2");
-    			h20.textContent = "Test What is a Convolutional Neural Network?";
+    			h20.textContent = "What is a Convolutional Neural Network?";
     			t1 = space();
     			p0 = element("p");
     			t2 = text("In machine learning, a classifier assigns a class label to a data point.  For example, an ");
@@ -7929,329 +7929,329 @@ var app = (function () {
     			t240 = text(",\n      which was the result of a research collaboration between \n      Georgia Tech and Oregon State.  We thank Anmol Chhabria, Kaan Sancak, Kantwon Rogers, and the Georgia Tech Visualization Lab for their support and constructive feedback.  This work was supported in part by NSF grants IIS-1563816, CNS-1704701, NASA NSTRF, DARPA GARD, gifts from Intel, NVIDIA, Google, Amazon.");
     			attr_dev(h20, "class", "svelte-ixpg0w");
     			add_location(h20, file$e, 104, 4, 1806);
-    			add_location(em0, file$e, 106, 92, 1960);
-    			add_location(em1, file$e, 106, 203, 2071);
+    			add_location(em0, file$e, 106, 92, 1955);
+    			add_location(em1, file$e, 106, 203, 2066);
     			attr_dev(p0, "class", "svelte-ixpg0w");
-    			add_location(p0, file$e, 105, 4, 1864);
+    			add_location(p0, file$e, 105, 4, 1859);
     			attr_dev(p1, "class", "svelte-ixpg0w");
-    			add_location(p1, file$e, 108, 3, 2201);
-    			add_location(strong0, file$e, 112, 10, 2514);
+    			add_location(p1, file$e, 108, 3, 2196);
+    			add_location(strong0, file$e, 112, 10, 2509);
     			attr_dev(li0, "class", "svelte-ixpg0w");
-    			add_location(li0, file$e, 112, 4, 2508);
-    			add_location(strong1, file$e, 113, 10, 2688);
+    			add_location(li0, file$e, 112, 4, 2503);
+    			add_location(strong1, file$e, 113, 10, 2683);
     			set_style(span0, "color", "#FF7577");
-    			add_location(span0, file$e, 113, 177, 2855);
+    			add_location(span0, file$e, 113, 177, 2850);
     			set_style(span1, "color", "#60A7D7");
-    			add_location(span1, file$e, 113, 224, 2902);
-    			add_location(strong2, file$e, 113, 265, 2943);
+    			add_location(span1, file$e, 113, 224, 2897);
+    			add_location(strong2, file$e, 113, 265, 2938);
     			attr_dev(li1, "class", "svelte-ixpg0w");
-    			add_location(li1, file$e, 113, 4, 2682);
-    			add_location(strong3, file$e, 114, 10, 2992);
+    			add_location(li1, file$e, 113, 4, 2677);
+    			add_location(strong3, file$e, 114, 10, 2987);
     			attr_dev(li2, "class", "svelte-ixpg0w");
-    			add_location(li2, file$e, 114, 4, 2986);
-    			add_location(strong4, file$e, 115, 8, 3123);
+    			add_location(li2, file$e, 114, 4, 2981);
+    			add_location(strong4, file$e, 115, 8, 3118);
     			set_style(span2, "color", "#BC8435");
-    			add_location(span2, file$e, 115, 235, 3350);
+    			add_location(span2, file$e, 115, 235, 3345);
     			set_style(span3, "color", "#39988F");
-    			add_location(span3, file$e, 115, 285, 3400);
-    			add_location(em2, file$e, 115, 391, 3506);
-    			add_location(em3, file$e, 115, 489, 3604);
+    			add_location(span3, file$e, 115, 285, 3395);
+    			add_location(em2, file$e, 115, 391, 3501);
+    			add_location(em3, file$e, 115, 489, 3599);
     			attr_dev(li3, "class", "svelte-ixpg0w");
-    			add_location(li3, file$e, 115, 4, 3119);
-    			add_location(strong5, file$e, 116, 24, 3682);
-    			add_location(strong6, file$e, 116, 96, 3754);
+    			add_location(li3, file$e, 115, 4, 3114);
+    			add_location(strong5, file$e, 116, 24, 3677);
+    			add_location(strong6, file$e, 116, 96, 3749);
     			attr_dev(li4, "class", "svelte-ixpg0w");
-    			add_location(li4, file$e, 116, 4, 3662);
+    			add_location(li4, file$e, 116, 4, 3657);
     			attr_dev(ol0, "class", "svelte-ixpg0w");
-    			add_location(ol0, file$e, 111, 3, 2499);
+    			add_location(ol0, file$e, 111, 3, 2494);
     			attr_dev(a0, "href", "http://ijcsit.com/docs/Volume%207/vol7issue5/ijcsit20160705014.pdf");
     			attr_dev(a0, "title", "CNN Applications");
     			attr_dev(a0, "class", "svelte-ixpg0w");
-    			add_location(a0, file$e, 119, 355, 4203);
+    			add_location(a0, file$e, 119, 355, 4198);
     			attr_dev(p2, "class", "svelte-ixpg0w");
-    			add_location(p2, file$e, 118, 3, 3844);
+    			add_location(p2, file$e, 118, 3, 3839);
     			attr_dev(a1, "href", "http://cs231n.stanford.edu/");
     			attr_dev(a1, "title", "Tiny VGG Net presented by Stanford's CS231n");
     			attr_dev(a1, "class", "svelte-ixpg0w");
-    			add_location(a1, file$e, 122, 201, 4597);
+    			add_location(a1, file$e, 122, 201, 4592);
     			attr_dev(p3, "class", "svelte-ixpg0w");
-    			add_location(p3, file$e, 121, 3, 4392);
+    			add_location(p3, file$e, 121, 3, 4387);
     			attr_dev(h21, "class", "svelte-ixpg0w");
-    			add_location(h21, file$e, 125, 6, 4915);
+    			add_location(h21, file$e, 125, 6, 4910);
     			attr_dev(p4, "class", "svelte-ixpg0w");
-    			add_location(p4, file$e, 126, 6, 4970);
+    			add_location(p4, file$e, 126, 6, 4965);
     			attr_dev(h40, "id", "article-input");
     			attr_dev(h40, "class", "svelte-ixpg0w");
-    			add_location(h40, file$e, 129, 6, 5157);
+    			add_location(h40, file$e, 129, 6, 5152);
     			attr_dev(img0, "class", "is-rounded svelte-ixpg0w");
     			attr_dev(img0, "width", "12%");
     			attr_dev(img0, "height", "12%");
     			if (!src_url_equal(img0.src, img0_src_value = "/assets/figures/network_details.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "network details icon");
-    			add_location(img0, file$e, 131, 293, 5500);
+    			add_location(img0, file$e, 131, 293, 5495);
     			attr_dev(p5, "class", "svelte-ixpg0w");
-    			add_location(p5, file$e, 130, 6, 5203);
+    			add_location(p5, file$e, 130, 6, 5198);
     			attr_dev(h41, "id", "article-convolution");
     			attr_dev(h41, "class", "svelte-ixpg0w");
-    			add_location(h41, file$e, 133, 6, 5719);
+    			add_location(h41, file$e, 133, 6, 5714);
     			attr_dev(p6, "class", "svelte-ixpg0w");
-    			add_location(p6, file$e, 134, 6, 5780);
+    			add_location(p6, file$e, 134, 6, 5775);
     			attr_dev(p7, "class", "svelte-ixpg0w");
-    			add_location(p7, file$e, 137, 3, 6303);
+    			add_location(p7, file$e, 137, 3, 6298);
     			attr_dev(p8, "class", "svelte-ixpg0w");
-    			add_location(p8, file$e, 140, 3, 6654);
+    			add_location(p8, file$e, 140, 3, 6649);
     			if (!src_url_equal(img1.src, img1_src_value = "/assets/figures/convlayer_overview_demo.gif")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "clicking on topmost first conv. layer activation map");
     			attr_dev(img1, "width", "60%");
     			attr_dev(img1, "height", "60%");
     			attr_dev(img1, "align", "middle");
     			attr_dev(img1, "class", "svelte-ixpg0w");
-    			add_location(img1, file$e, 144, 6, 7212);
+    			add_location(img1, file$e, 144, 6, 7207);
     			attr_dev(div0, "class", "figure-caption svelte-ixpg0w");
-    			add_location(div0, file$e, 145, 6, 7380);
+    			add_location(div0, file$e, 145, 6, 7375);
     			attr_dev(div1, "class", "figure svelte-ixpg0w");
-    			add_location(div1, file$e, 143, 4, 7185);
+    			add_location(div1, file$e, 143, 4, 7180);
     			attr_dev(p9, "class", "svelte-ixpg0w");
-    			add_location(p9, file$e, 150, 3, 7725);
+    			add_location(p9, file$e, 150, 3, 7720);
     			if (!src_url_equal(img2.src, img2_src_value = "/assets/figures/convlayer_detailedview_demo.gif")) attr_dev(img2, "src", img2_src_value);
     			attr_dev(img2, "alt", "clicking on topmost first conv. layer activation map");
     			attr_dev(img2, "class", "svelte-ixpg0w");
-    			add_location(img2, file$e, 154, 6, 8395);
+    			add_location(img2, file$e, 154, 6, 8390);
     			attr_dev(div2, "class", "figure-caption svelte-ixpg0w");
-    			add_location(div2, file$e, 155, 6, 8532);
+    			add_location(div2, file$e, 155, 6, 8527);
     			attr_dev(div3, "class", "figure svelte-ixpg0w");
-    			add_location(div3, file$e, 153, 4, 8368);
+    			add_location(div3, file$e, 153, 4, 8363);
     			attr_dev(p10, "class", "svelte-ixpg0w");
-    			add_location(p10, file$e, 159, 3, 8706);
+    			add_location(p10, file$e, 159, 3, 8701);
     			attr_dev(p11, "class", "svelte-ixpg0w");
-    			add_location(p11, file$e, 162, 3, 9088);
+    			add_location(p11, file$e, 162, 3, 9083);
     			attr_dev(h60, "class", "svelte-ixpg0w");
-    			add_location(h60, file$e, 165, 4, 9596);
+    			add_location(h60, file$e, 165, 4, 9591);
     			attr_dev(p12, "class", "svelte-ixpg0w");
-    			add_location(p12, file$e, 166, 4, 9639);
-    			add_location(strong7, file$e, 170, 9, 9697);
+    			add_location(p12, file$e, 166, 4, 9634);
+    			add_location(strong7, file$e, 170, 9, 9692);
     			attr_dev(a2, "href", "https://arxiv.org/pdf/1603.07285.pdf");
     			attr_dev(a2, "title", "See page 13");
     			attr_dev(a2, "class", "svelte-ixpg0w");
-    			add_location(a2, file$e, 170, 214, 9902);
+    			add_location(a2, file$e, 170, 214, 9897);
     			attr_dev(a3, "href", "https://arxiv.org/pdf/1811.11718.pdf");
     			attr_dev(a3, "title", "Outlines major padding techniques");
     			attr_dev(a3, "class", "svelte-ixpg0w");
-    			add_location(a3, file$e, 170, 416, 10104);
+    			add_location(a3, file$e, 170, 416, 10099);
     			attr_dev(a4, "href", "https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf");
     			attr_dev(a4, "title", "AlexNet");
     			attr_dev(a4, "class", "svelte-ixpg0w");
-    			add_location(a4, file$e, 170, 800, 10488);
+    			add_location(a4, file$e, 170, 800, 10483);
     			attr_dev(li5, "class", "svelte-ixpg0w");
-    			add_location(li5, file$e, 170, 5, 9693);
-    			add_location(strong8, file$e, 171, 9, 10643);
+    			add_location(li5, file$e, 170, 5, 9688);
+    			add_location(strong8, file$e, 171, 9, 10638);
     			attr_dev(a5, "href", "https://arxiv.org/pdf/1409.1556.pdf");
     			attr_dev(a5, "title", "Learn why deeper networks perform better!");
     			attr_dev(a5, "class", "svelte-ixpg0w");
-    			add_location(a5, file$e, 171, 997, 11631);
+    			add_location(a5, file$e, 171, 997, 11626);
     			attr_dev(li6, "class", "svelte-ixpg0w");
-    			add_location(li6, file$e, 171, 5, 10639);
-    			add_location(strong9, file$e, 172, 9, 11816);
+    			add_location(li6, file$e, 171, 5, 10634);
+    			add_location(strong9, file$e, 172, 9, 11811);
     			attr_dev(li7, "class", "svelte-ixpg0w");
-    			add_location(li7, file$e, 172, 5, 11812);
+    			add_location(li7, file$e, 172, 5, 11807);
     			attr_dev(ol1, "class", "svelte-ixpg0w");
-    			add_location(ol1, file$e, 169, 4, 9683);
+    			add_location(ol1, file$e, 169, 4, 9678);
     			attr_dev(h42, "class", "svelte-ixpg0w");
-    			add_location(h42, file$e, 174, 4, 12808);
+    			add_location(h42, file$e, 174, 4, 12803);
     			attr_dev(h61, "id", "article-relu");
     			attr_dev(h61, "class", "svelte-ixpg0w");
-    			add_location(h61, file$e, 175, 4, 12842);
+    			add_location(h61, file$e, 175, 4, 12837);
     			attr_dev(a6, "href", "https://arxiv.org/pdf/1512.03385.pdf");
     			attr_dev(a6, "title", "ResNet");
     			attr_dev(a6, "class", "svelte-ixpg0w");
-    			add_location(a6, file$e, 177, 295, 13177);
-    			add_location(em4, file$e, 177, 936, 13818);
+    			add_location(a6, file$e, 177, 295, 13172);
+    			add_location(em4, file$e, 177, 936, 13813);
     			attr_dev(a7, "href", "https://arxiv.org/pdf/1906.01975.pdf");
     			attr_dev(a7, "title", "See page 29");
     			attr_dev(a7, "class", "svelte-ixpg0w");
-    			add_location(a7, file$e, 177, 973, 13855);
+    			add_location(a7, file$e, 177, 973, 13850);
     			attr_dev(p13, "class", "svelte-ixpg0w");
-    			add_location(p13, file$e, 176, 4, 12878);
+    			add_location(p13, file$e, 176, 4, 12873);
     			attr_dev(p14, "class", "svelte-ixpg0w");
-    			add_location(p14, file$e, 179, 4, 14026);
+    			add_location(p14, file$e, 179, 4, 14021);
     			if (!src_url_equal(img3.src, img3_src_value = "/assets/figures/relu_graph.png")) attr_dev(img3, "src", img3_src_value);
     			attr_dev(img3, "alt", "relu graph");
     			attr_dev(img3, "width", "30%");
     			attr_dev(img3, "height", "30%");
     			attr_dev(img3, "class", "svelte-ixpg0w");
-    			add_location(img3, file$e, 183, 4, 14155);
+    			add_location(img3, file$e, 183, 4, 14150);
     			attr_dev(div4, "class", "figure-caption svelte-ixpg0w");
-    			add_location(div4, file$e, 184, 6, 14257);
+    			add_location(div4, file$e, 184, 6, 14252);
     			attr_dev(div5, "class", "figure svelte-ixpg0w");
-    			add_location(div5, file$e, 182, 4, 14130);
+    			add_location(div5, file$e, 182, 4, 14125);
     			attr_dev(p15, "class", "svelte-ixpg0w");
-    			add_location(p15, file$e, 188, 4, 14406);
+    			add_location(p15, file$e, 188, 4, 14401);
     			attr_dev(h62, "id", "article-softmax");
     			attr_dev(h62, "class", "svelte-ixpg0w");
-    			add_location(h62, file$e, 191, 4, 14958);
+    			add_location(h62, file$e, 191, 4, 14953);
     			set_style(span4, "color", "#FFC385");
-    			add_location(span4, file$e, 194, 424, 15451);
+    			add_location(span4, file$e, 194, 424, 15446);
     			set_style(span5, "color", "#C44103");
-    			add_location(span5, file$e, 194, 480, 15507);
+    			add_location(span5, file$e, 194, 480, 15502);
     			attr_dev(p16, "class", "svelte-ixpg0w");
-    			add_location(p16, file$e, 192, 4, 15000);
+    			add_location(p16, file$e, 192, 4, 14995);
     			attr_dev(p17, "class", "svelte-ixpg0w");
-    			add_location(p17, file$e, 196, 4, 15685);
+    			add_location(p17, file$e, 196, 4, 15680);
     			if (!src_url_equal(img4.src, img4_src_value = "/assets/figures/softmax_animation.gif")) attr_dev(img4, "src", img4_src_value);
     			attr_dev(img4, "alt", "softmax interactive formula view");
     			attr_dev(img4, "class", "svelte-ixpg0w");
-    			add_location(img4, file$e, 200, 4, 16275);
-    			add_location(em5, file$e, 202, 22, 16432);
+    			add_location(img4, file$e, 200, 4, 16270);
+    			add_location(em5, file$e, 202, 22, 16427);
     			attr_dev(div6, "class", "figure-caption svelte-ixpg0w");
-    			add_location(div6, file$e, 201, 6, 16381);
+    			add_location(div6, file$e, 201, 6, 16376);
     			attr_dev(div7, "class", "figure svelte-ixpg0w");
-    			add_location(div7, file$e, 199, 4, 16250);
+    			add_location(div7, file$e, 199, 4, 16245);
     			attr_dev(h43, "id", "article-pooling");
     			attr_dev(h43, "class", "svelte-ixpg0w");
-    			add_location(h43, file$e, 205, 4, 16686);
+    			add_location(h43, file$e, 205, 4, 16681);
     			attr_dev(p18, "class", "svelte-ixpg0w");
-    			add_location(p18, file$e, 206, 4, 16735);
+    			add_location(p18, file$e, 206, 4, 16730);
     			attr_dev(p19, "class", "svelte-ixpg0w");
-    			add_location(p19, file$e, 209, 4, 17063);
+    			add_location(p19, file$e, 209, 4, 17058);
     			attr_dev(p20, "class", "svelte-ixpg0w");
-    			add_location(p20, file$e, 212, 4, 17468);
+    			add_location(p20, file$e, 212, 4, 17463);
     			attr_dev(h44, "id", "article-flatten");
     			attr_dev(h44, "class", "svelte-ixpg0w");
-    			add_location(h44, file$e, 215, 4, 17770);
+    			add_location(h44, file$e, 215, 4, 17765);
     			attr_dev(p21, "class", "svelte-ixpg0w");
-    			add_location(p21, file$e, 216, 4, 17818);
+    			add_location(p21, file$e, 216, 4, 17813);
     			attr_dev(h22, "class", "svelte-ixpg0w");
-    			add_location(h22, file$e, 220, 4, 18416);
-    			add_location(strong10, file$e, 222, 9, 18464);
+    			add_location(h22, file$e, 220, 4, 18411);
+    			add_location(strong10, file$e, 222, 9, 18459);
     			attr_dev(img5, "class", "icon is-rounded svelte-ixpg0w");
     			if (!src_url_equal(img5.src, img5_src_value = "/assets/figures/upload_image_icon.png")) attr_dev(img5, "src", img5_src_value);
     			attr_dev(img5, "alt", "upload image icon");
-    			add_location(img5, file$e, 222, 61, 18516);
+    			add_location(img5, file$e, 222, 61, 18511);
     			attr_dev(li8, "class", "svelte-ixpg0w");
-    			add_location(li8, file$e, 222, 5, 18460);
-    			add_location(strong11, file$e, 223, 9, 18817);
+    			add_location(li8, file$e, 222, 5, 18455);
+    			add_location(strong11, file$e, 223, 9, 18812);
     			attr_dev(img6, "class", "is-rounded svelte-ixpg0w");
     			attr_dev(img6, "width", "12%");
     			attr_dev(img6, "height", "12%");
     			if (!src_url_equal(img6.src, img6_src_value = "/assets/figures/heatmap_scale.png")) attr_dev(img6, "src", img6_src_value);
     			attr_dev(img6, "alt", "heatmap");
-    			add_location(img6, file$e, 223, 158, 18966);
+    			add_location(img6, file$e, 223, 158, 18961);
     			attr_dev(li9, "class", "svelte-ixpg0w");
-    			add_location(li9, file$e, 223, 5, 18813);
-    			add_location(strong12, file$e, 224, 9, 19096);
+    			add_location(li9, file$e, 223, 5, 18808);
+    			add_location(strong12, file$e, 224, 9, 19091);
     			attr_dev(img7, "class", "is-rounded svelte-ixpg0w");
     			attr_dev(img7, "width", "12%");
     			attr_dev(img7, "height", "12%");
     			if (!src_url_equal(img7.src, img7_src_value = "/assets/figures/network_details.png")) attr_dev(img7, "src", img7_src_value);
     			attr_dev(img7, "alt", "network details icon");
-    			add_location(img7, file$e, 224, 110, 19197);
+    			add_location(img7, file$e, 224, 110, 19192);
     			attr_dev(li10, "class", "svelte-ixpg0w");
-    			add_location(li10, file$e, 224, 5, 19092);
-    			add_location(strong13, file$e, 225, 9, 19347);
+    			add_location(li10, file$e, 224, 5, 19087);
+    			add_location(strong13, file$e, 225, 9, 19342);
     			attr_dev(img8, "class", "icon is-rounded svelte-ixpg0w");
     			if (!src_url_equal(img8.src, img8_src_value = "/assets/figures/play_button.png")) attr_dev(img8, "src", img8_src_value);
     			attr_dev(img8, "alt", "play icon");
-    			add_location(img8, file$e, 225, 70, 19408);
-    			add_location(em6, file$e, 225, 212, 19550);
+    			add_location(img8, file$e, 225, 70, 19403);
+    			add_location(em6, file$e, 225, 212, 19545);
     			attr_dev(li11, "class", "svelte-ixpg0w");
-    			add_location(li11, file$e, 225, 5, 19343);
-    			add_location(strong14, file$e, 226, 10, 19702);
+    			add_location(li11, file$e, 225, 5, 19338);
+    			add_location(strong14, file$e, 226, 10, 19697);
     			attr_dev(img9, "class", "icon is-rounded svelte-ixpg0w");
     			if (!src_url_equal(img9.src, img9_src_value = "/assets/figures/info_button.png")) attr_dev(img9, "src", img9_src_value);
     			attr_dev(img9, "alt", "info icon");
-    			add_location(img9, file$e, 226, 61, 19753);
-    			add_location(em7, file$e, 226, 165, 19857);
+    			add_location(img9, file$e, 226, 61, 19748);
+    			add_location(em7, file$e, 226, 165, 19852);
     			attr_dev(li12, "class", "svelte-ixpg0w");
-    			add_location(li12, file$e, 226, 6, 19698);
+    			add_location(li12, file$e, 226, 6, 19693);
     			attr_dev(ol2, "class", "svelte-ixpg0w");
-    			add_location(ol2, file$e, 221, 4, 18450);
+    			add_location(ol2, file$e, 221, 4, 18445);
     			attr_dev(h23, "class", "svelte-ixpg0w");
-    			add_location(h23, file$e, 229, 4, 19952);
+    			add_location(h23, file$e, 229, 4, 19947);
     			attr_dev(small0, "class", "svelte-ixpg0w");
-    			add_location(small0, file$e, 233, 8, 20091);
+    			add_location(small0, file$e, 233, 8, 20086);
     			attr_dev(li13, "class", "video-link svelte-ixpg0w");
-    			add_location(li13, file$e, 231, 6, 19991);
-    			add_location(em8, file$e, 236, 8, 20202);
+    			add_location(li13, file$e, 231, 6, 19986);
+    			add_location(em8, file$e, 236, 8, 20197);
     			attr_dev(small1, "class", "svelte-ixpg0w");
-    			add_location(small1, file$e, 237, 8, 20228);
+    			add_location(small1, file$e, 237, 8, 20223);
     			attr_dev(li14, "class", "video-link svelte-ixpg0w");
-    			add_location(li14, file$e, 235, 6, 20136);
-    			add_location(em9, file$e, 240, 22, 20353);
+    			add_location(li14, file$e, 235, 6, 20131);
+    			add_location(em9, file$e, 240, 22, 20348);
     			attr_dev(small2, "class", "svelte-ixpg0w");
-    			add_location(small2, file$e, 241, 8, 20395);
+    			add_location(small2, file$e, 241, 8, 20390);
     			attr_dev(li15, "class", "video-link svelte-ixpg0w");
-    			add_location(li15, file$e, 239, 6, 20273);
-    			add_location(em10, file$e, 244, 41, 20539);
+    			add_location(li15, file$e, 239, 6, 20268);
+    			add_location(em10, file$e, 244, 41, 20534);
     			attr_dev(small3, "class", "svelte-ixpg0w");
-    			add_location(small3, file$e, 245, 8, 20582);
+    			add_location(small3, file$e, 245, 8, 20577);
     			attr_dev(li16, "class", "video-link svelte-ixpg0w");
-    			add_location(li16, file$e, 243, 6, 20440);
-    			add_location(em11, file$e, 248, 16, 20701);
+    			add_location(li16, file$e, 243, 6, 20435);
+    			add_location(em11, file$e, 248, 16, 20696);
     			attr_dev(small4, "class", "svelte-ixpg0w");
-    			add_location(small4, file$e, 249, 8, 20743);
+    			add_location(small4, file$e, 249, 8, 20738);
     			attr_dev(li17, "class", "video-link svelte-ixpg0w");
-    			add_location(li17, file$e, 247, 6, 20627);
-    			add_location(em12, file$e, 252, 16, 20863);
+    			add_location(li17, file$e, 247, 6, 20622);
+    			add_location(em12, file$e, 252, 16, 20858);
     			attr_dev(small5, "class", "svelte-ixpg0w");
-    			add_location(small5, file$e, 253, 8, 20905);
+    			add_location(small5, file$e, 253, 8, 20900);
     			attr_dev(li18, "class", "video-link svelte-ixpg0w");
-    			add_location(li18, file$e, 251, 6, 20788);
+    			add_location(li18, file$e, 251, 6, 20783);
     			attr_dev(small6, "class", "svelte-ixpg0w");
-    			add_location(small6, file$e, 257, 8, 21084);
+    			add_location(small6, file$e, 257, 8, 21079);
     			attr_dev(li19, "class", "video-link svelte-ixpg0w");
-    			add_location(li19, file$e, 255, 6, 20950);
+    			add_location(li19, file$e, 255, 6, 20945);
     			attr_dev(small7, "class", "svelte-ixpg0w");
-    			add_location(small7, file$e, 261, 8, 21233);
+    			add_location(small7, file$e, 261, 8, 21228);
     			attr_dev(li20, "class", "video-link svelte-ixpg0w");
-    			add_location(li20, file$e, 259, 6, 21129);
+    			add_location(li20, file$e, 259, 6, 21124);
     			attr_dev(ul, "class", "svelte-ixpg0w");
-    			add_location(ul, file$e, 230, 4, 19980);
+    			add_location(ul, file$e, 230, 4, 19975);
     			attr_dev(div8, "class", "video svelte-ixpg0w");
-    			add_location(div8, file$e, 264, 4, 21286);
+    			add_location(div8, file$e, 264, 4, 21281);
     			attr_dev(h24, "class", "svelte-ixpg0w");
-    			add_location(h24, file$e, 268, 4, 21409);
-    			add_location(em13, file$e, 270, 62, 21522);
+    			add_location(h24, file$e, 268, 4, 21404);
+    			add_location(em13, file$e, 270, 62, 21517);
     			attr_dev(a8, "href", "https://js.tensorflow.org/");
     			attr_dev(a8, "class", "svelte-ixpg0w");
-    			add_location(a8, file$e, 270, 25, 21485);
-    			add_location(em14, file$e, 270, 282, 21742);
+    			add_location(a8, file$e, 270, 25, 21480);
+    			add_location(em14, file$e, 270, 282, 21737);
     			attr_dev(a9, "href", "https://svelte.dev/");
     			attr_dev(a9, "class", "svelte-ixpg0w");
-    			add_location(a9, file$e, 270, 252, 21712);
-    			add_location(em15, file$e, 270, 349, 21809);
+    			add_location(a9, file$e, 270, 252, 21707);
+    			add_location(em15, file$e, 270, 349, 21804);
     			attr_dev(a10, "href", "https://d3js.org/");
     			attr_dev(a10, "class", "svelte-ixpg0w");
-    			add_location(a10, file$e, 270, 321, 21781);
+    			add_location(a10, file$e, 270, 321, 21776);
     			attr_dev(p22, "class", "svelte-ixpg0w");
-    			add_location(p22, file$e, 269, 4, 21456);
+    			add_location(p22, file$e, 269, 4, 21451);
     			attr_dev(h25, "class", "svelte-ixpg0w");
-    			add_location(h25, file$e, 273, 4, 21926);
+    			add_location(h25, file$e, 273, 4, 21921);
     			attr_dev(a11, "href", "https://zijie.wang/");
     			attr_dev(a11, "class", "svelte-ixpg0w");
-    			add_location(a11, file$e, 276, 6, 22014);
+    			add_location(a11, file$e, 276, 6, 22009);
     			attr_dev(a12, "href", "https://www.linkedin.com/in/robert-turko/");
     			attr_dev(a12, "class", "svelte-ixpg0w");
-    			add_location(a12, file$e, 277, 6, 22064);
+    			add_location(a12, file$e, 277, 6, 22059);
     			attr_dev(a13, "href", "http://oshaikh.com/");
     			attr_dev(a13, "class", "svelte-ixpg0w");
-    			add_location(a13, file$e, 278, 6, 22141);
+    			add_location(a13, file$e, 278, 6, 22136);
     			attr_dev(a14, "href", "https://haekyu.com/");
     			attr_dev(a14, "class", "svelte-ixpg0w");
-    			add_location(a14, file$e, 279, 6, 22194);
+    			add_location(a14, file$e, 279, 6, 22189);
     			attr_dev(a15, "href", "http://nilakshdas.com/");
     			attr_dev(a15, "class", "svelte-ixpg0w");
-    			add_location(a15, file$e, 280, 6, 22247);
+    			add_location(a15, file$e, 280, 6, 22242);
     			attr_dev(a16, "href", "https://fredhohman.com/");
     			attr_dev(a16, "class", "svelte-ixpg0w");
-    			add_location(a16, file$e, 281, 6, 22303);
+    			add_location(a16, file$e, 281, 6, 22298);
     			attr_dev(a17, "href", "http://minsuk.com");
     			attr_dev(a17, "class", "svelte-ixpg0w");
-    			add_location(a17, file$e, 282, 6, 22360);
+    			add_location(a17, file$e, 282, 6, 22355);
     			attr_dev(a18, "href", "https://www.cc.gatech.edu/~dchau/");
     			attr_dev(a18, "class", "svelte-ixpg0w");
-    			add_location(a18, file$e, 283, 6, 22416);
+    			add_location(a18, file$e, 283, 6, 22411);
     			attr_dev(p23, "class", "svelte-ixpg0w");
-    			add_location(p23, file$e, 274, 4, 21968);
+    			add_location(p23, file$e, 274, 4, 21963);
     			attr_dev(div9, "id", "description");
     			attr_dev(div9, "class", "svelte-ixpg0w");
     			add_location(div9, file$e, 103, 2, 1779);
@@ -8802,7 +8802,7 @@ var app = (function () {
      */
     const constructCNNFromOutputs = (allOutputs, model, inputImageTensor) => {
       let cnn = [];
-
+      console.log(model);
       // Add the first layer (input layer)
       let inputLayer = [];
       let inputShape = model.layers[0].batchInputShape.slice(1);
@@ -8822,7 +8822,7 @@ var app = (function () {
         // Get the current output
         let outputs = allOutputs[l].squeeze();
         outputs = outputs.arraySync();
-
+        console.log(outputs);
         let curLayerNodes = [];
         let curLayerType;
 
@@ -8847,6 +8847,7 @@ var app = (function () {
             let biases = layer.bias.val.arraySync();
             // The new order is [output_depth, input_depth, height, width]
             let weights = layer.kernel.val.transpose([3, 2, 0, 1]).arraySync();
+            console.log(layer);
 
             // Add nodes into this layer
             for (let i = 0; i < outputs.length; i++) {
@@ -8996,6 +8997,7 @@ var app = (function () {
         // Because there is only one element in the batch, we use squeeze()
         // We also want to use CHW order here
         let output = curTensor.squeeze();
+        console.log(output);
         if (output.shape.length === 3) {
           output = output.transpose([2, 0, 1]);
         }
@@ -9190,8 +9192,7 @@ var app = (function () {
       kernelRectLength: 8/3,
       gapRatio: 4,
       overlayRectOffset: 12,
-      classLists: ['lifeboat', 'ladybug', 'pizza', 'bell pepper', 'school bus',
-        'koala', 'espresso', 'red panda', 'orange', 'sport car']
+      classLists: ['0','1']
     };
 
     // Configs
@@ -11359,11 +11360,11 @@ var app = (function () {
         dr = 50;
 
         sliderX2 = leftX - 3 * kernelRectLength * 3;
-        sliderY2 = nodeCoordinate$1[curLayerIndex - 1][2].y - 3;
+        sliderY2 = nodeCoordinate$1[curLayerIndex - 1][1].y - 3;
         arrowTX2 = leftX - kernelRectLength * 3 - 4;
-        arrowTY2 = nodeCoordinate$1[curLayerIndex - 1][2].y + kernelRectLength * 3 + 6;
+        arrowTY2 = nodeCoordinate$1[curLayerIndex - 1][1].y + kernelRectLength * 3 + 6;
         arrowSX2 = leftX - kernelRectLength * 3 - 13;
-        arrowSY2 = nodeCoordinate$1[curLayerIndex - 1][2].y + 26;
+        arrowSY2 = nodeCoordinate$1[curLayerIndex - 1][1].y + 26;
         dr2 = 20;
       }
 
@@ -12526,7 +12527,7 @@ var app = (function () {
 
           // Hack: now show all edges, only draw 1/3 of the actual edges
           for (let f = 0; f < flattenLength; f += 3) {
-            let loopFactors = [0, 9];
+            let loopFactors = [0, 1];
             loopFactors.forEach(l => {
               let factoredF = f + l * flattenLength;
         
@@ -13040,7 +13041,7 @@ var app = (function () {
             });
 
             // Add annotation for the logit circle
-            for (let i = 0; i < 10; i++) {
+            for (let i = 0; i < 2; i++) {
               softmaxDetailAnnotation.append('text')
                 .attr('x', centerX)
                 .attr('y', nodeCoordinate$2[curLayerIndex - 1][i].y + nodeLength$5 / 2 + 8)
@@ -13060,7 +13061,7 @@ var app = (function () {
             textY = nodeCoordinate$2[curLayerIndex - 1][0].y + nodeLength$5 / 2;
 
             if (selectedI < 3) {
-              textY = nodeCoordinate$2[curLayerIndex - 1][9].y + nodeLength$5 / 2;
+              textY = nodeCoordinate$2[curLayerIndex - 1][1].y + nodeLength$5 / 2;
             }
 
             // Add annotation to prompt user to check the logit value
@@ -13277,7 +13278,7 @@ var app = (function () {
         .attr('class', 'flatten-layer-left');
       
       let topY = nodeCoordinate$2[curLayerIndex - 1][0].y;
-      let bottomY = nodeCoordinate$2[curLayerIndex - 1][9].y + nodeLength$5 -
+      let bottomY = nodeCoordinate$2[curLayerIndex - 1][1].y + nodeLength$5 -
             flattenLength * pixelHeight;
       
       // Compute the pre-layer gap
@@ -13367,7 +13368,7 @@ var app = (function () {
 
       flattenFactoredFDict = {};
       for (let f = 0; f < flattenLength; f++) {
-        let loopFactors = [0, 9];
+        let loopFactors = [0, 1];
         loopFactors.forEach(l => {
           let factoredF = f + l * flattenLength;
           flattenFactoredFDict[factoredF] = cnn$2.flatten[factoredF].output;
@@ -14036,7 +14037,7 @@ var app = (function () {
     	return child_ctx;
     }
 
-    // (1489:6) {#each imageOptions as image, i}
+    // (1481:6) {#each imageOptions as image, i}
     function create_each_block(ctx) {
     	let div;
     	let img;
@@ -14058,12 +14059,12 @@ var app = (function () {
     			attr_dev(img, "title", img_title_value = /*image*/ ctx[83].class);
     			attr_dev(img, "data-imagename", img_data_imagename_value = /*image*/ ctx[83].file);
     			attr_dev(img, "class", "svelte-1xz6y1p");
-    			add_location(img, file$f, 1494, 10, 47768);
+    			add_location(img, file$f, 1486, 10, 47375);
     			attr_dev(div, "class", "image-container svelte-1xz6y1p");
     			attr_dev(div, "data-imagename", div_data_imagename_value = /*image*/ ctx[83].file);
     			toggle_class(div, "inactive", /*selectedImage*/ ctx[7] !== /*image*/ ctx[83].file);
     			toggle_class(div, "disabled", /*disableControl*/ ctx[6]);
-    			add_location(div, file$f, 1489, 8, 47524);
+    			add_location(div, file$f, 1481, 8, 47131);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -14111,14 +14112,14 @@ var app = (function () {
     		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(1489:6) {#each imageOptions as image, i}",
+    		source: "(1481:6) {#each imageOptions as image, i}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (1596:39) 
+    // (1588:39) 
     function create_if_block_3(ctx) {
     	let softmaxview;
     	let current;
@@ -14177,14 +14178,14 @@ var app = (function () {
     		block,
     		id: create_if_block_3.name,
     		type: "if",
-    		source: "(1596:39) ",
+    		source: "(1588:39) ",
     		ctx
     	});
 
     	return block;
     }
 
-    // (1591:67) 
+    // (1583:67) 
     function create_if_block_2(ctx) {
     	let poolview;
     	let current;
@@ -14234,14 +14235,14 @@ var app = (function () {
     		block,
     		id: create_if_block_2.name,
     		type: "if",
-    		source: "(1591:67) ",
+    		source: "(1583:67) ",
     		ctx
     	});
 
     	return block;
     }
 
-    // (1586:67) 
+    // (1578:67) 
     function create_if_block_1(ctx) {
     	let activationview;
     	let current;
@@ -14292,14 +14293,14 @@ var app = (function () {
     		block,
     		id: create_if_block_1.name,
     		type: "if",
-    		source: "(1586:67) ",
+    		source: "(1578:67) ",
     		ctx
     	});
 
     	return block;
     }
 
-    // (1578:2) {#if selectedNode.data && selectedNode.data.type === 'conv' && selectedNodeIndex != -1}
+    // (1570:2) {#if selectedNode.data && selectedNode.data.type === 'conv' && selectedNodeIndex != -1}
     function create_if_block$3(ctx) {
     	let convolutionview;
     	let current;
@@ -14360,7 +14361,7 @@ var app = (function () {
     		block,
     		id: create_if_block$3.name,
     		type: "if",
-    		source: "(1578:2) {#if selectedNode.data && selectedNode.data.type === 'conv' && selectedNodeIndex != -1}",
+    		source: "(1570:2) {#if selectedNode.data && selectedNode.data.type === 'conv' && selectedNodeIndex != -1}",
     		ctx
     	});
 
@@ -14509,79 +14510,79 @@ var app = (function () {
     			attr_dev(img, "alt", "plus button");
     			attr_dev(img, "title", "Add new input image");
     			attr_dev(img, "data-imagename", "custom");
-    			add_location(img, file$f, 1508, 10, 48231);
+    			add_location(img, file$f, 1500, 10, 47838);
     			attr_dev(i0, "class", "fas fa-circle fa-stack-2x");
-    			add_location(i0, file$f, 1516, 12, 48522);
+    			add_location(i0, file$f, 1508, 12, 48129);
     			attr_dev(i1, "class", "fas fa-pen fa-stack-1x fa-inverse");
-    			add_location(i1, file$f, 1517, 12, 48576);
+    			add_location(i1, file$f, 1509, 12, 48183);
     			attr_dev(span0, "class", "fa-stack edit-icon svelte-1xz6y1p");
     			toggle_class(span0, "hidden", /*customImageURL*/ ctx[12] === null);
-    			add_location(span0, file$f, 1514, 10, 48425);
+    			add_location(span0, file$f, 1506, 10, 48032);
     			attr_dev(div0, "class", "image-container svelte-1xz6y1p");
     			attr_dev(div0, "data-imagename", div0_data_imagename_value = 'custom');
     			toggle_class(div0, "inactive", /*selectedImage*/ ctx[7] !== 'custom');
     			toggle_class(div0, "disabled", /*disableControl*/ ctx[6]);
-    			add_location(div0, file$f, 1502, 8, 47990);
+    			add_location(div0, file$f, 1494, 8, 47597);
     			attr_dev(i2, "class", "fas fa-crosshairs ");
-    			add_location(i2, file$f, 1526, 10, 48861);
+    			add_location(i2, file$f, 1518, 10, 48468);
     			attr_dev(span1, "class", "icon");
     			set_style(span1, "margin-right", "5px");
-    			add_location(span1, file$f, 1525, 8, 48804);
+    			add_location(span1, file$f, 1517, 8, 48411);
     			attr_dev(span2, "id", "hover-label-text");
-    			add_location(span2, file$f, 1528, 8, 48920);
+    			add_location(span2, file$f, 1520, 8, 48527);
     			attr_dev(button0, "class", "button is-very-small is-link is-light svelte-1xz6y1p");
     			attr_dev(button0, "id", "hover-label");
     			set_style(button0, "opacity", /*hoverInfo*/ ctx[4].show ? 1 : 0);
-    			add_location(button0, file$f, 1522, 6, 48667);
+    			add_location(button0, file$f, 1514, 6, 48274);
     			attr_dev(div1, "class", "left-control svelte-1xz6y1p");
-    			add_location(div1, file$f, 1487, 4, 47450);
+    			add_location(div1, file$f, 1479, 4, 47057);
     			attr_dev(i3, "class", "fas fa-eye");
-    			add_location(i3, file$f, 1542, 10, 49281);
+    			add_location(i3, file$f, 1534, 10, 48888);
     			attr_dev(span3, "class", "icon");
-    			add_location(span3, file$f, 1541, 8, 49251);
+    			add_location(span3, file$f, 1533, 8, 48858);
     			attr_dev(span4, "id", "hover-label-text");
-    			add_location(span4, file$f, 1544, 8, 49332);
+    			add_location(span4, file$f, 1536, 8, 48939);
     			attr_dev(button1, "class", "button is-very-small svelte-1xz6y1p");
     			attr_dev(button1, "id", "detailed-button");
     			button1.disabled = /*disableControl*/ ctx[6];
     			toggle_class(button1, "is-activated", /*detailedMode*/ ctx[2]);
-    			add_location(button1, file$f, 1536, 6, 49059);
+    			add_location(button1, file$f, 1528, 6, 48666);
     			attr_dev(i4, "class", "fas fa-palette");
-    			add_location(i4, file$f, 1552, 10, 49560);
+    			add_location(i4, file$f, 1544, 10, 49167);
     			attr_dev(span5, "class", "icon is-left");
-    			add_location(span5, file$f, 1551, 8, 49522);
+    			add_location(span5, file$f, 1543, 8, 49129);
     			option0.__value = "local";
     			option0.value = option0.__value;
-    			add_location(option0, file$f, 1558, 12, 49756);
+    			add_location(option0, file$f, 1550, 12, 49363);
     			option1.__value = "module";
     			option1.value = option1.__value;
-    			add_location(option1, file$f, 1559, 12, 49804);
+    			add_location(option1, file$f, 1551, 12, 49411);
     			option2.__value = "global";
     			option2.value = option2.__value;
-    			add_location(option2, file$f, 1560, 12, 49855);
+    			add_location(option2, file$f, 1552, 12, 49462);
     			attr_dev(select, "id", "level-select");
     			select.disabled = /*disableControl*/ ctx[6];
     			attr_dev(select, "class", "svelte-1xz6y1p");
     			if (/*selectedScaleLevel*/ ctx[0] === void 0) add_render_callback(() => /*select_change_handler*/ ctx[24].call(select));
-    			add_location(select, file$f, 1556, 10, 49647);
+    			add_location(select, file$f, 1548, 10, 49254);
     			attr_dev(div2, "class", "select svelte-1xz6y1p");
-    			add_location(div2, file$f, 1555, 8, 49616);
+    			add_location(div2, file$f, 1547, 8, 49223);
     			attr_dev(div3, "class", "control is-very-small has-icons-left svelte-1xz6y1p");
     			attr_dev(div3, "title", "Change color scale range");
-    			add_location(div3, file$f, 1549, 6, 49422);
+    			add_location(div3, file$f, 1541, 6, 49029);
     			attr_dev(div4, "class", "right-control svelte-1xz6y1p");
-    			add_location(div4, file$f, 1534, 4, 49024);
+    			add_location(div4, file$f, 1526, 4, 48631);
     			attr_dev(div5, "class", "control-container svelte-1xz6y1p");
-    			add_location(div5, file$f, 1485, 2, 47413);
+    			add_location(div5, file$f, 1477, 2, 47020);
     			attr_dev(svg_1, "id", "cnn-svg");
     			attr_dev(svg_1, "class", "svelte-1xz6y1p");
-    			add_location(svg_1, file$f, 1570, 4, 49993);
+    			add_location(svg_1, file$f, 1562, 4, 49600);
     			attr_dev(div6, "class", "cnn svelte-1xz6y1p");
-    			add_location(div6, file$f, 1569, 2, 49971);
+    			add_location(div6, file$f, 1561, 2, 49578);
     			attr_dev(div7, "class", "overview svelte-1xz6y1p");
-    			add_location(div7, file$f, 1482, 0, 47355);
+    			add_location(div7, file$f, 1474, 0, 46962);
     			attr_dev(div8, "id", "detailview");
-    			add_location(div8, file$f, 1576, 0, 50047);
+    			add_location(div8, file$f, 1568, 0, 49654);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -15029,26 +15030,8 @@ var app = (function () {
     		}
     	};
 
-    	let imageOptions = [
-    		{ file: 'boat_1.jpeg', class: 'lifeboat' },
-    		{ file: 'bug_1.jpeg', class: 'ladybug' },
-    		{ file: 'pizza_1.jpeg', class: 'pizza' },
-    		{
-    			file: 'pepper_1.jpeg',
-    			class: 'bell pepper'
-    		},
-    		{ file: 'bus_1.jpeg', class: 'bus' },
-    		{ file: 'koala_1.jpeg', class: 'koala' },
-    		{
-    			file: 'espresso_1.jpeg',
-    			class: 'espresso'
-    		},
-    		{ file: 'panda_1.jpeg', class: 'red panda' },
-    		{ file: 'orange_1.jpeg', class: 'orange' },
-    		{ file: 'car_1.jpeg', class: 'sport car' }
-    	];
-
-    	let selectedImage = imageOptions[6].file;
+    	let imageOptions = [{ file: '0.jpg', class: '0' }, { file: '1.jpg', class: '1' }];
+    	let selectedImage = imageOptions[0].file;
     	let nodeData;
     	let selectedNodeIndex = -1;
     	let isExitedFromDetailedView = true;
